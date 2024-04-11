@@ -1,0 +1,22 @@
+{
+  "type": "function",
+  "source": {
+    "https": "https://github.com/grgshiji/9AprB.git",
+    "ssh": "git@github.com:grgshiji/9AprB.git",
+    "branch": "block_addTodo"
+  },
+  "language": "nodejs",
+  "start": "node index.js",
+  "build": "npm run build",
+  "postPull": "npm i",
+  "name": "addTodo",
+  "supportedAppblockVersions": [
+    "1.0.0"
+  ],
+  "blockId": "KuNswYUoIlOozOZIVYE9X",
+  "isPublic": true,
+  "repoType": "mono",
+  "parentBlockIDs": [
+    "GLYpNByvVE42zZf0923XB"
+  ]
+}

@@ -2,8 +2,8 @@
   "name": "9AprB",
   "type": "package",
   "source": {
-    "https": null,
-    "ssh": null,
+    "https": "https://github.com/grgshiji/9AprB.git",
+    "ssh": "git@github.com:grgshiji/9AprB.git",
     "branch": "block_9AprB"
   },
   "dependencies": {
